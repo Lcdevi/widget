@@ -22,7 +22,7 @@ function createRulesDiv() {
     newDiv.classList.add("scale-in-center");
     newDiv.innerHTML += 
     `<img src="./images/times-solid.svg" alt="black-cross" width='28px' class='black-cross'>
-    <h1> THE RULES </h1>
+    <h1> GAME OVER </h1>
     <br>
     <p>
         Ce chapitre décrit le thème du jeu quand il en existe un. Dans le cadre d'un jeu thématique, l'auteur y explique éventuellement l'esprit qu'il souhaite voir les joueurs adopter.
